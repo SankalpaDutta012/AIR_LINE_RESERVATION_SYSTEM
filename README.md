@@ -1,11 +1,6 @@
 # AIR_LINE_RESERVATION_SYSTEM
  An **Airline Reservation System (ARS)** manages flight bookings, ticket sales, and inventory. It enables online booking, streamlines reservations, and enhances customer convenience.
-# Team Members 
-Pranati Mondal(IoT-2B-31)
 
-Nirupam Paramanik (IoT-2C-29)
-
-Sankalpa Dutta (IoT-2C-37)
 
 # SRS (SOFTWARE REQUIREMENT SYSTEM):
  
@@ -32,10 +27,6 @@ Sankalpa Dutta (IoT-2C-37)
 4. Conclusionn :
    The ARS SRS outlines essential features and specifications to develop a robust and user-centric airline reservation system, ensuring smooth operations, data security, and customer satisfaction.
 
-
-
-
-
 # DATA FLOW DIAGRAM :
 Zero Level DFD:
 
@@ -49,4 +40,21 @@ Second Level DFD:
 
 ![2Lvl](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/1e8c8f9a-1606-45d6-b252-bd822aeb8c7c)
 
+# SEQUENCE DIAGRAM :
+![2Lvl](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/1e8c8f9a-1606-45d6-b252-bd822aeb8c7c)
 
+# CLASS DIAGRAM :
+![class](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/545df2ca-2654-4098-9990-76747ed42536)
+
+# USE-CASE DIAGRAM :
+![use](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/e70eff8f-92f5-40d1-87ca-4a54c52b99ae)
+
+# ACTIVITY DIAGRAM :
+![act](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/d9ee7eee-8454-49f1-ba8e-892fe9c43829)
+
+# Team Members 
+Pranati Mondal(IoT-2B-31)
+
+Nirupam Paramanik (IoT-2C-29)
+
+Sankalpa Dutta (IoT-2C-37)
