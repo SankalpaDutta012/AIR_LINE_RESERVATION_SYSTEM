@@ -1,6 +1,7 @@
 # AIR_LINE_RESERVATION_SYSTEM
  An **Airline Reservation System (ARS)** manages flight bookings, ticket sales, and inventory. It enables online booking, streamlines reservations, and enhances customer convenience.
-
+# WEBSITE INTERFACE:
+![Web](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/276a2f66-7230-4977-b0c7-9c79afe6d3cf)
 
 # SRS (SOFTWARE REQUIREMENT SYSTEM):
  
