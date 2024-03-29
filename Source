@@ -1,1 +1,151 @@
+HTML CODE
+<html>
 
+<head>
+    <title>AIRLINE RESERVATION BY PNS</title>
+    <link rel="stylesheet" href="New.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <div class="booking-form-box">
+        <div class="radio-btn">
+            <input type="radio" class="btn" name="check" checked="checked"><span>Roundtrip</span>
+            <input type="radio" class="btn" name="check"><span>One Way</span>
+            <input type="radio" class="btn" name="check"><span>Multi-City</span>
+        </div>
+        <div class="booking-form">
+            <label>Flying From</label>
+            <input type="text" class="form-control" placeholder="City or Airport">
+            <label>Flying To</label>
+            <input type="text" class="form-control" placeholder="City or Airport">
+            <div class="input-grp">
+                <label>Departing</label>
+            <input type="date" class="form-control select-date" >
+            </div>
+            <div class="input-grp">
+                <label>Returning</label>
+            <input type="date" class="form-control select-date" >
+            </div>
+            <div class="input-grp">
+                <label>Adults</label>
+            <input type="number" class="form-control" value="1" >
+            </div>
+            <div class="input-grp">
+                <label>Children</label>
+            <input type="number" class="form-control" value="0" >
+            </div>
+            <div class="input-grp">
+                <label>Travel-Class</label>
+                <select class="custom-select">
+            <option value="1">Economy class</option>
+            <option value="2">Bussiness class</option>
+            </select>
+            </div>
+            <div class="input-grp"><button type="button" class="btn btn-primary flight">Show Flight</button></div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
+
+CSS CODE:
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(air2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.booking-form-box{
+    max-width: 350px;
+    border: 1px solid #ceb4ce;
+    margin: 10% auto 0;
+}
+.radio-btn{
+    margin:  0 20px;
+}
+.radio-btn .btn{
+    margin: 20px 10px 20px 0;
+    box-shadow: none;
+}
+.radio-btn .btn ::after{
+    content: '';
+    height: 15px;
+    width: 15px;
+    top: -2px;
+    left: -1px;
+    background-color:#883333 ;
+    position: relative;
+    display: inline-block;
+    border: 3px solid #fff;
+    visibility: visible;
+    border-radius: 50%;
+}
+.radio-btn .btn:checked ::after{
+    content: '';
+    background-color: #000000;
+    transition: 0.5s;
+}
+.radio-btn span{
+    color: #fff;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.booking-form{
+    padding: 0 20px 20px;
+}
+.booking-form label{
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #fff;
+}
+input::placeholder{
+    color: #fff !important;
+}
+.input-grp{
+    width: 150px;
+    display: inline-block;
+}
+.form-control{
+    font-size: 12px !important;
+    border-radius: 0 !important;
+    color: #fff !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+.select-date::-webkit-inner-spin-button,
+.select-date::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+.select-date::-webkit-calender-picker-indicator{
+    background: transparent !important;
+}
+.custom-select{
+    color: #fff !important ;
+    font-size: 12px !important;
+    border: 1px solid #ceb4ce !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+}
+.custom-select option{
+    color: #333;
+}
+.flight{
+    width: 100%  !important;
+    padding: 9px 0  !important;
+    font-size: 12px  !important;
+    border: 1px solid #ceb4ce  !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+}
+.flight:hover{
+    background: #fff !important;
+    color: #000000 !important;
+    transition: 0.5s !important;
+}
