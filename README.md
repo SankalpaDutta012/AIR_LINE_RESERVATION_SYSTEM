@@ -40,3 +40,13 @@ Sankalpa Dutta (IoT-2C-37)
 Zero Level DFD:
 
 ![Lvl0 DFD](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/98c0e8f4-a209-45bc-8b64-6655ba4f81df)
+
+First Level DFD:
+
+![Lvl1](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/8966f9f3-6f25-4a22-a51e-ec9c0b66590c)
+
+Second Level DFD:
+
+![2Lvl](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/1e8c8f9a-1606-45d6-b252-bd822aeb8c7c)
+
+
