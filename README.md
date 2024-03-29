@@ -5,4 +5,4 @@ Pranati Mondal(IoT-2B-31)
 
 Nirupam Paramanik (IoT-2C-29)
 
-Sankalpa Dutta (Iot_2C-37)
+Sankalpa Dutta (Iot-2C-37)
