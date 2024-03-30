@@ -1,4 +1,4 @@
-HTML CODE
+***HTML CODE***
 <html>
 
 <head>
@@ -52,7 +52,7 @@ HTML CODE
 
 </html>
 
-CSS CODE:
+***CSS CODE***
 body{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(air2.jpg);
     background-size: cover;
