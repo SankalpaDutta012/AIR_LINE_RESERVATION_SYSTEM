@@ -53,9 +53,4 @@ Second Level DFD:
 # ACTIVITY DIAGRAM :
 ![act](https://github.com/SankalpaDutta012/AIR_LINE_RESERVATION_SYSTEM/assets/124279362/d9ee7eee-8454-49f1-ba8e-892fe9c43829)
 
-# Team Members 
-Pranati Mondal(IoT-2B-31)
 
-Nirupam Paramanik (IoT-2C-29)
-
-Sankalpa Dutta (IoT-2C-37)
